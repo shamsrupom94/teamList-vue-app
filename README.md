@@ -1,9 +1,8 @@
-# teamList-vue-app (https://vue-crud-team-list.firebaseapp.com)
+# teamList-vue-app 
 
-> --A Vue.js CRUD application project
-> --Here you can Make New Teams with New Team member 
-> --You can also edit the existing teams by adding/delete playes 
-> --this complete project is deployed to firebase  
+> --A basic Vue.js CRUD application build with firebase and deployed to firestore
+# (https://vue-crud-team-list.firebaseapp.com)
+
 
 ## Build Setup
 

@@ -3,7 +3,7 @@
 > --A Vue.js CRUD application project
 > --Here you can Make New Teams with New Team member 
 > --You can also edit the existing teams by adding/delete playes 
-> --Build by using firebase/firestore  
+> --this complete project is deployed to firebase  
 
 ## Build Setup
 
